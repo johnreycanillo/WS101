@@ -1,0 +1,56 @@
+*{
+	font-family: "Lucida Console", "Courier New", monospace;
+	
+}
+
+#main-header{
+	margin-right: 200px;
+	text-align: right;
+	color: violet;
+		
+} 
+
+#main-footer{
+	text-align: right;
+	color:violet;
+	font-size: 14px;
+	clear:both;
+	padding-top: 20px;
+	
+}
+
+
+table, td {
+  border-collapse: collapse;
+  margin-left: 40px;
+  border: 1px solid black;
+  width:15%;
+  text-align: center;
+  background-color: white;
+}
+
+
+section{
+	float: center;
+	margin-left: 646px;
+	color:violet;
+	font-size: 24px;
+	float: right;
+} 
+
+body{
+	background-color:yellow;
+	margin-left: 1px;
+	
+}
+
+hr{
+    border-top: 1px dashed #8c8b8b;
+	
+}
+
+small{
+	font-style: italic;
+	font-family: Georgia, serif;
+	
+}
